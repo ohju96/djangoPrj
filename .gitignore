@@ -1,0 +1,10 @@
+.env
+.venv
+env/
+venv/
+ENV/
+emv.bak/
+venv.bak/
+.log
+db.sqlite3
+db.sqlite3-journal
